@@ -1,0 +1,19 @@
+{
+  "name": "jason-roesgen_001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Rösgen",
+  "license": "ISC",
+  "dependencies": {
+    "tsc": "^1.20150623.0",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
+  }
+}
